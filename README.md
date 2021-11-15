@@ -2,6 +2,8 @@
 ### Read carefully and follow the steps to recover your files succesfully or your data can corrupt too easily! (This includes Windows essential files)
 (I tested on Windows 7)
 
+(Reuploaded)
+
 1. You will see this message <blockquote class="imgur-embed-pub" lang="en" data-id="a/dUUHp0P"  ><a href="//imgur.com/a/dUUHp0P">Pic1</a></blockquote>
 
 2. Now, insert your windows installation cd
